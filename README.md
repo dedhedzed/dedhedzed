@@ -1,4 +1,4 @@
-# Hi there 👋
+# What's up caballero 👋
 I'm Ded Hed Zed, but you can call me Zed.
 
 ## This is what I'm up to.
