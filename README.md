@@ -1,17 +1,13 @@
 # Hi there 👋
-## I'm Ded Hed Zed.
+I'm Ded Hed Zed, but you can call me Zed.
 
-<!--
-**dedhedzed/dedhedzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is what I'm up to.
 
-Here are some ideas to get you started:
+- :metal: (Newly) Active in the Flipper Zero community (IR, mostly).
+- :metal: I own, as of writing this, **30 computers**.
+- :metal: I also do professional video editing.
+- :metal: I also speak le Français.
+- :metal: I can be reached on Discord : -zed-#9366
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Active Projects:
+- DedHedZed's Flipper IRDB contribs : https://github.com/dedhedzed/Flipper-IRDB
