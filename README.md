@@ -7,7 +7,7 @@ I'm Ded Hed Zed, but you can call me Zed.
 - :metal: I own, as of writing this, **30 computers**.
 - :metal: I also do professional video editing.
 - :metal: I also speak le Français.
-- :metal: I can be reached on Discord : -zed-#9366
+- :metal: I can be reached on Discord : -zed-#0666
 
 ### Active Projects:
 - DedHedZed's Flipper IRDB contribs : https://github.com/dedhedzed/Flipper-IRDB
