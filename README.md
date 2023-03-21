@@ -11,4 +11,4 @@ the name's ded hed zed, but most mafks call me zed.
 
 ### Active Projects:
 - dedhedzed's Flipper IRDB contribs : https://github.com/dedhedzed/Flipper-IRDB (yeah i used to be more active, i need to get back into er)
-- project galahad : 
+- project galahad : lmao some day
