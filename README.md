@@ -1,7 +1,7 @@
-# what's up caballero 
+# what's up caballero
 the name's dedhedzed, but most mafks call me zed.
 
-## this is why i'm so *fuckin awesome*
+## :godmode: this is why i'm so *fuckin awesome* :godmode:
 
 - :metal: i'm active in [the pirate's plunder](https://discord.gg/6hkKQFp6Jd), my pal [rocketgod's](https://github.com/RocketGod-git) fuckin amazing discord server 
 - :metal: i'm [fighting the never-ending fight against canadian telecommunications](https://zed.industries) erryday, straight up
