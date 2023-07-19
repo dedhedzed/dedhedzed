@@ -13,3 +13,5 @@ the name's dedhedzed, but most mafks call me zed.
 - dedhedzed's Flipper IRDB contribs : https://github.com/dedhedzed/Flipper-IRDB (yeah i used to be more active, i need to get back into er)
 - Partagon : https://github.com/dedhedzed/partagon (**HUUUUUUUUUUUUUGE** WIP)
 - MilOS : Still private *but it's coming*
+
+### Wanna look at my (code) bits? Right here ↪️ https://github.com/dedhedzed/codebits ↩️
